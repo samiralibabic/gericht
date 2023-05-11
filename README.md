@@ -1,1 +1,0 @@
-Example Restaurant Website in React
