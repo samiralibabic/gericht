@@ -1,10 +1,23 @@
 # Example Restaurant Website in React
 
-## Install
+![screenshot](screenshot.png)
 
-1. `git clone https://github.com/samiralibabic/gericht.git your_folder`
-2. `npm install`
+## Clone
+
+```shell
+git clone https://github.com/samiralibabic/gericht.git
+```
+
+## Install dependencies
+
+```shell
+npm install
+```
 
 ## Run
 
-`npm run start`
+```shell
+npm run start
+```
+
+Open `http://localhost:3000` to preview the project.
